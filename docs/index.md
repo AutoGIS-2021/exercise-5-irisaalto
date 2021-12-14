@@ -26,6 +26,3 @@ Map of the dominance areas of seven shopping centers in Helsinki region
 
 Map of raven observations in Finland in 2021
 
- You can check syntax for formatting the links in here: 
- - [Link to test map](https://autogis-2021.github.io/exercise-5-haavardaagesen/test_map.html)
-
