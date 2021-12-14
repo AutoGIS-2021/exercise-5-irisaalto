@@ -12,13 +12,20 @@ Here is an example how to do it in MarkDown for user haavardaagesen:
 ## Publishing the maps 
 
 In order to access the files via the links, you need to set the repository as public and adjust the GitHub pages settins
+
 ## My maps
 
 Edit the text below and add links to the maps that you have created:
 
- - [My static map]()
- - [My interactive map]()
+ - [My static map](https://autogis-2021.github.io/exercise-5-irisaalto/docs/dominance_areas_roads.png)
+
+Map of the dominance areas of seven shopping centers in Helsinki region
+
  
+ - [My interactive map](https://autogis-2021.github.io/exercise-5-irisaalto/docs/ravens.html)
+
+Map of raven observations in Finland in 2021
+
  You can check syntax for formatting the links in here: 
  - [Link to test map](https://autogis-2021.github.io/exercise-5-haavardaagesen/test_map.html)
 
